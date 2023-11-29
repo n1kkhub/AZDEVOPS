@@ -3,3 +3,7 @@ trainee name madhukar reddy
 git and linux commands are done
 today we are going through maven
 maven is used for jawa based projects
+how to use maven
+what are WAR,JAR,EAR?
+
+
